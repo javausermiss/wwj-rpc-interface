@@ -1,0 +1,12 @@
+*.jar
+*.class
+
+.classpath
+.project
+
+target
+
+# IntelliJ IDEA
+.idea
+*.iml
+/.settings/
