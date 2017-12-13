@@ -10,6 +10,20 @@
 	<name>Wwj Rpc interface</name>
 	<description>Wwj Rpc interface</description>
 
+	<dependencies>
+		<dependency>
+			<groupId>com.iot.game.pooh.server</groupId>
+			<artifactId>pooh-server-entity</artifactId>
+			<version>1.0.0.SNAPSHORT</version>
+		</dependency>
+		<dependency>
+			<groupId>org.projectlombok</groupId>
+			<artifactId>lombok</artifactId>
+			<version>1.16.18</version>
+			<scope>provided</scope>
+		</dependency>
+	</dependencies>
+
 	<build>
 		<plugins>
 			<plugin>
