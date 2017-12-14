@@ -27,6 +27,6 @@ public interface LotteryWebRpcService {
 	/**
 	 * 异常通知
 	 */
-	String gatewayException(PoohNormalStatus poohNormalStatus, PoohAbnormalStatus poohAbnormalStatus);
+	String gatewayException(String roomId,PoohNormalStatus poohNormalStatus, PoohAbnormalStatus poohAbnormalStatus);
 }
 

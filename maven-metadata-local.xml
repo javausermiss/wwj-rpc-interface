@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.iot.game.pooh.wwj</groupId>
+  <artifactId>wwj-rpc-interface</artifactId>
+  <versioning>
+    <release>1.0.0.SNAPSHORT</release>
+    <versions>
+      <version>1.0.0.SNAPSHORT</version>
+    </versions>
+    <lastUpdated>20171214020102</lastUpdated>
+  </versioning>
+</metadata>

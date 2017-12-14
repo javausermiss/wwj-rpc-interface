@@ -1,0 +1,8 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Dec 11 10:18:26 CST 2017
+https\://repo.spring.io/libs-snapshot/.error=
+https\://repo.maven.apache.org/maven2/.lastUpdated=1512958706891
+https\://repo.spring.io/libs-snapshot/.lastUpdated=1512872778589
+http\://nexus.zktd.com\:8081/nexus/content/groups/public/.error=Could not transfer artifact com.iot.game.pooh.wwj\:wwj-rpc-interface\:pom\:1.0.0.SNAPSHORT from/to nexus (http\://nexus.zktd.com\:8081/nexus/content/groups/public/)\: nexus.zktd.com
+@default-nexus-http\://nexus.zktd.com\:8081/nexus/content/groups/public/.lastUpdated=1512872777412
+https\://repo.maven.apache.org/maven2/.error=
