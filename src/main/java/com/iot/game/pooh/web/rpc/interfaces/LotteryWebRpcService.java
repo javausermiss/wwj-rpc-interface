@@ -10,12 +10,12 @@ public interface LotteryWebRpcService {
 	/**
 	 * 投注开始(START)
 	 */
-	RpcCommandResult startLottery(String roomId, String userName);
+	RpcCommandResult startLottery(String roomId, String userId);
 
 	/**
 	 * 投注结束(CATCH)
 	 */
-	RpcCommandResult endLottery(String roomId, String userName);
+	RpcCommandResult endLottery(String roomId, String userId);
 
 	/**
 	 * 开奖(FREE)
