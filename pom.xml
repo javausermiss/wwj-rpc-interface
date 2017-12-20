@@ -13,7 +13,7 @@
 	<dependencies>
 		<dependency>
 			<groupId>com.iot.game.pooh.server</groupId>
-			<artifactId>pooh-server-entity</artifactId>
+			<artifactId>pooh-server-rpc-interface</artifactId>
 			<version>1.0.0.SNAPSHORT</version>
 		</dependency>
 		<dependency>
