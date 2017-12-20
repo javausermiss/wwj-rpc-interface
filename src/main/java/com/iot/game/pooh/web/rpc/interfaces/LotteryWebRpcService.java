@@ -1,6 +1,5 @@
 package com.iot.game.pooh.web.rpc.interfaces;
 
-
 import com.iot.game.pooh.server.entity.json.enums.PoohAbnormalStatus;
 import com.iot.game.pooh.server.entity.json.enums.PoohNormalStatus;
 import com.iot.game.pooh.server.rpc.interfaces.bean.RpcCommandResult;
@@ -27,6 +26,6 @@ public interface LotteryWebRpcService {
 	/**
 	 * 异常通知
 	 */
-	String gatewayException(String roomId,PoohNormalStatus poohNormalStatus, PoohAbnormalStatus poohAbnormalStatus);
+	String gatewayException(String roomId, PoohNormalStatus poohNormalStatus, PoohAbnormalStatus poohAbnormalStatus);
 }
 
