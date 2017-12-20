@@ -1,4 +1,4 @@
-package entity;
+package com.iot.game.pooh.web.rpc.interfaces.entity;
 
 import lombok.Data;
 
