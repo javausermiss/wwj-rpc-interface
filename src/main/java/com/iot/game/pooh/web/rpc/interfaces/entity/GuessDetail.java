@@ -2,11 +2,13 @@ package com.iot.game.pooh.web.rpc.interfaces.entity;
 
 import lombok.Data;
 
+import java.io.Serializable;
+
 /**
  * 竞猜游戏实体类
  */
 @Data
-public class GuessDetail {
+public class GuessDetail implements Serializable{
     private Integer guessId;
     private String appUserId;
     private String dollId;
