@@ -12,7 +12,7 @@ public interface CoinRpcService {
 	/**
 	 * 结果
 	 */
-	RpcCommandResult playResult(String roomId, String userId, Integer bat, Integer bingo);
+	RpcCommandResult playResult(String roomId, String userId, Integer bat, Integer bingo, String gameId );
 
 	/**
 	 * 用户下机
